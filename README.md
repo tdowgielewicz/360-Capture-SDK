@@ -1,16 +1,19 @@
 # 360-Capture-SDK Unity Plugin
 
+
 If you want to record 360 video from your unity game:
 
-* Copy Directory Assets to your Assets directory
-* Drag EncoderObject.prefab in to the scene
-* Press F2 to start recording
+- Copy Directory Assets to your Assets directory
+- Drag EncoderObject.prefab in to the scene
+- Press F2 to start recording
+
 
 
 Orginal repo: https://github.com/facebook/360-Capture-SDK
 
+* Goal of this fork is to simplyfy and speed up integration of 360-Capture-SDK from facebook into Unity3D *
 
-
+Tested with Unity 2017.1 and SteamVR
 
 
 
